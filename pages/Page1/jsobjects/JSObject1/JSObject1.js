@@ -13,7 +13,7 @@ export default {
 	},
 	 myFun3 () {
 		//const _ = require('lodash');
-let val = "qqqqq";
+let val = "";
 
 // Checking for Empty Value
 return("The Value is Empty :" + _.isEmpty(val))
